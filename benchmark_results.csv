@@ -1,0 +1,17 @@
+n,input_type,time_ms
+100,random,0
+100,sorted,0
+100,reverse,0
+100,nearly_sorted,0
+1000,random,3
+1000,sorted,0
+1000,reverse,7
+1000,nearly_sorted,0
+10000,random,22
+10000,sorted,0
+10000,reverse,44
+10000,nearly_sorted,0
+100000,random,2225
+100000,sorted,0
+100000,reverse,4450
+100000,nearly_sorted,59
